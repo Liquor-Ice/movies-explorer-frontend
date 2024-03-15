@@ -1,0 +1,14 @@
+.section {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.section__title {
+  width: 100%;
+  border-bottom: 1px;
+  border-color: black;
+  box-sizing: border-box;
+  margin-bottom: 23px;
+  font-size: 22px;
+  line-height: 1.21;
+}

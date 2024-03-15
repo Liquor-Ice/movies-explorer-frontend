@@ -1,0 +1,15 @@
+.promo {
+  width: 100%;
+  background-color: #F3C1F8;
+  background-image: url('../../images/landing-logo.png');
+  background-repeat: no-repeat;
+  background-size: 320px;
+  background-position: center;
+  padding: auto;
+}
+
+.promo__text{
+  max-width: 730px;
+  font-size: 50px;
+  line-height: 1.16;
+  text-align: center;}
